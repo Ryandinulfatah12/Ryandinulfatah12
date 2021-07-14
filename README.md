@@ -2,6 +2,7 @@
 **Ryandinulfatah12/Ryandinulfatah12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Let's Drink cup a Coffee first☕:
+![github stats](https://github-readme-stats.vercel.app/api?username=Ryandinulfatah12&show_icons=true)
 - 🔭 I’m currently started my freelance career at Upwork
 - 🌱 I’m currently learning frontend for now (ES6, ReactJS, & SCSS/SASS)
 - 🤘 I’m collaborated with <a href="https://www.instagram.com/sagitarisandy/">Arya Sagitarisandy</a> & <a href="https://www.instagram.com/herlambang.saja/">Herlambang</a>
