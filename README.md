@@ -3,13 +3,11 @@
 
 ## Let's Drink cup a Coffee first☕:
 ![github stats](https://github-readme-stats.vercel.app/api?username=Ryandinulfatah12&show_icons=true)
-- 🔭 I’m currently started my freelance career at Upwork
-- 🌱 I’m currently learning frontend for now (ES6, ReactJS, & SCSS/SASS)
-- 🤘 I’m collaborated with <a href="https://www.instagram.com/sagitarisandy/">Arya Sagitarisandy</a> & <a href="https://www.instagram.com/herlambang.saja/">Herlambang</a>
-- 💬 Ask me about Programming and Other :v
-- ✊ See My Project 👉 <a href="https://ryandinulfatah.netlify.app/showoff">Ryan Dinul Fatah Project</a>
-- 📫 Reach me : <a href="mailto:dinulfatahryan@gmail.com">Sent me Email</a> or See My Portfolio 👉 <a href="https://ryandinulfatah.netlify.app/">Ryan Dinul Fatah</a>
-- 😄 Pronouns: don't be sad allah with us | Laa Tahzan Inallaha ma'ana
-- ⚡ Fun fact: will find a My Akhwat one day...😆
+- 🔭 I am currently starting my job as a freelance
+- 🤘 I’m collaborated with <a href="https://www.instagram.com/sagitarisandy/">Arya</a> & <a href="https://www.instagram.com/herlambang.saja/">Herlambang</a>
+- 💬 Ask me anything you want
+- ✊ See My Project 👉 <a href="https://ryandinulfatah.netlify.app/showoff">Ryan Project</a>
+- 📫 Reach me : <a href="mailto:dinulfatahryan@gmail.com">Sent me Email</a> or DM me on Instagram 👉 <a href="https://www.instagram.com/ryandinulfatah12/">My instagram</a>
+- 😄 Pronouns: start something with bismillah
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryandinulfatah12&theme=vue">
