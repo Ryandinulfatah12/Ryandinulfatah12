@@ -3,7 +3,7 @@
 
 ## Let's Drink cup a Coffee first☕:
 ![github stats](https://github-readme-stats.vercel.app/api?username=Ryandinulfatah12&show_icons=true)
-- 🔭 I am currently learning JavaScript
+- 🔭 I am currently learning JavaScript & Java
 - 🤘 I’m collaborated with <a href="https://www.instagram.com/sagitarisandy/">Arya</a> & <a href="https://www.instagram.com/herlambang.saja/">Herlambang</a>
 - 💬 Ask me anything you want
 - ✊ See My Project 👉 <a href="https://www.ryandf.me/work">Ryan Project</a>
