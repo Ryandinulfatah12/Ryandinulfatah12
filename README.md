@@ -1,5 +1,5 @@
 # 💫 Me:
-🔭 Hi there i am Ryan, Nice to meet you. I currently learning JavaScript & Java. Let's discuss together, if you are learning the same thing<br>🤘<br>
+🔭 Hi there i am Ryan, Nice to meet you. I currently learning JavaScript & Java. Let's discuss together, if you are learning the same thing 🤘<br>
 💬 Ask me anything you want<br>
 📫 Reach me : dinulfatahryan@gmail.com<br>
 😄 Pronouns: start something with bismillah
