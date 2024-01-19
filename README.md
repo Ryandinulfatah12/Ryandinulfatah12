@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **spring boot and nodeJS**
 
-- 👨‍💻 All of my projects are available at [https://next-portfolio-ryandinulfatah12.vercel.app/](https://next-portfolio-ryandinulfatah12.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://next-portfolio-ryandinulfatah12.vercel.app/](www.dinulfatahryan.my.id)
 
 - 📝 I regularly write articles on [https://narosan.com](https://narosan.com)
 
