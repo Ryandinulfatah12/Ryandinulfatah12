@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A passionate Versatile Developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **spring boot and nodeJS**
+- 🌱 I’m currently learning **spring boot and nodeJS (NestJS, Express)**
 
 - 👨‍💻 All of my projects are available at [www.dinulfatahryan.my.id](https://www.dinulfatahryan.my.id)
 
-- 📝 I regularly write articles on [https://narosan.com](https://narosan.com)
+- 📝 I regularly write articles on [narosan.com](https://narosan.com) and [medium.com/@dinulfatahryan](https://medium.com/@dinulfatahryan)
 
 - 💬 Ask me about **anything you want**
 
