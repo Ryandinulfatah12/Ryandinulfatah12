@@ -7,11 +7,9 @@
 
 - 📝 I regularly write articles on [narosan.com](https://narosan.com) and [medium.com/@dinulfatahryan](https://medium.com/@dinulfatahryan)
 
-- 💬 Ask me about **anything you want**
-
 - 📫 Reach me **dinulfatahryan@gmail.com**
 
-- ⚡ Pronouns **start something with bismillah**
+- ⚡ **start something with bismillah**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
