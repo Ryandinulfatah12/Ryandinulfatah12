@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate Versatile Developer from Indonesia</h3>
+<h3 align="center">A passionate Full-Stack Developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **spring boot and nodeJS (NestJS, Express)**
 
